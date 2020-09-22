@@ -11,6 +11,6 @@
  send "ssh rcas6012\r"
  #send "rterm -i\r"
  expect "*password*"
- send "Zyj%biu19\r"
+ send "gg75959707Zyj%biu19\r"
  interact
  expect eof
